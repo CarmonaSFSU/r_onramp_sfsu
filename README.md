@@ -18,4 +18,4 @@ Topics:
 4. [Introduction to the Tidyverse and data wrangling](r_intro_tidyverse_wrangling.md)
    - demonstration of Tidyverse functions
    - data wrangling
-5. [Resources and getting help](r_resources_and_getting_help.md)
+5. [Resources and getting help](r_resources_and_getting_help.md)# Example2025
